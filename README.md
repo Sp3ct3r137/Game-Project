@@ -1,2 +1,3 @@
-# Game-Project
-its a shitty tree game. :)
+# New Project
+
+This project has been reset and is ready for a fresh start.
